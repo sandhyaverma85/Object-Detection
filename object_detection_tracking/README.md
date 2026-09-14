@@ -5,6 +5,9 @@ tracking. The project combines YOLOv8, OpenCV, the SORT tracker, and SQLite to
 detect objects, assign stable track IDs, save annotated video, and produce
 session summaries.
 
+## Project live Demo
+https://drive.google.com/file/d/1_uzDJ9PQ4LchtqXvXzowYzD1KyXoPm5B/view?usp=drive_link
+
 ## Features
 
 - YOLOv8 object detection through Ultralytics.
