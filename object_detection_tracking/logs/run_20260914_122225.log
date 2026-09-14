@@ -1,0 +1,12 @@
+2026-09-14 12:22:25,336 [INFO] === Object Detection & Tracking Session Start ===
+2026-09-14 12:22:25,337 [INFO] Source   : C:\Users\shiva\AppData\Local\Temp\tmpqhe3kyjx.mp4
+2026-09-14 12:22:25,337 [INFO] Weights  : yolov8n.pt
+2026-09-14 12:22:25,337 [INFO] DB log   : True
+2026-09-14 12:22:25,398 [INFO] Frame size: 640x480 @ 10.0 fps
+2026-09-14 12:22:25,399 [INFO] Writing output to: output\output_20260914_122225.mp4
+2026-09-14 12:22:25,416 [INFO] DB session 1 opened in: detections.db
+2026-09-14 12:22:28,549 [INFO] End of video stream.
+2026-09-14 12:22:28,550 [INFO] Processed 10 frames in 3.1s (3.2 fps avg)
+2026-09-14 12:22:28,599 [INFO] DB session closed.
+2026-09-14 12:22:28,599 [INFO] Output saved: output\output_20260914_122225.mp4
+2026-09-14 12:22:28,599 [INFO] === Session End ===

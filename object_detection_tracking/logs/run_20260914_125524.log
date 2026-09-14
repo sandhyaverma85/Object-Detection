@@ -1,0 +1,7 @@
+2026-09-14 12:55:24,417 [INFO] === Object Detection & Tracking Session Start ===
+2026-09-14 12:55:24,417 [INFO] Source   : 0
+2026-09-14 12:55:24,417 [INFO] Weights  : yolov8n.pt
+2026-09-14 12:55:24,417 [INFO] DB log   : True
+2026-09-14 12:55:24,828 [INFO] Frame size: 640x480 @ 30.0 fps
+2026-09-14 12:55:24,833 [INFO] Writing output to: output\output_20260914_125524.mp4
+2026-09-14 12:55:24,843 [INFO] DB session 4 opened in: detections.db

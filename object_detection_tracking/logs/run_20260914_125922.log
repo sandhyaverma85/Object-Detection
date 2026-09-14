@@ -1,0 +1,12 @@
+2026-09-14 12:59:22,324 [INFO] === Object Detection & Tracking Session Start ===
+2026-09-14 12:59:22,324 [INFO] Source   : 0
+2026-09-14 12:59:22,325 [INFO] Weights  : yolov8n.pt
+2026-09-14 12:59:22,325 [INFO] DB log   : True
+2026-09-14 12:59:22,785 [INFO] Frame size: 640x480 @ 30.0 fps
+2026-09-14 12:59:22,790 [INFO] Writing output to: output\output_20260914_125922.mp4
+2026-09-14 12:59:22,818 [INFO] DB session 5 opened in: detections.db
+2026-09-14 12:59:22,824 [INFO] End of video stream.
+2026-09-14 12:59:22,825 [INFO] Processed 0 frames in 0.0s (0.0 fps avg)
+2026-09-14 12:59:22,841 [INFO] DB session closed.
+2026-09-14 12:59:22,842 [INFO] Output saved: output\output_20260914_125922.mp4
+2026-09-14 12:59:22,842 [INFO] === Session End ===
